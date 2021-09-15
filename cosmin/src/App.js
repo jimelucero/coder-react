@@ -18,5 +18,8 @@ import About from './pages/about'
     </Router>
   );
 }
+
+
+
 export default App; 
 
